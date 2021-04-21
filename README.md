@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Clive
-- 👀 I’m interested in webapp/game development
-- 🌱 I’m currently learning dotnet/angular/react/unity
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me tranvinhnhan@outlook.com/tranvinhnhan.tech@gmail.com
+I'm Clive and I'm currently learning things...
 
 <!---
 TranVinhNhan/TranVinhNhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

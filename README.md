@@ -1,11 +1,13 @@
-👋 I'm Clive and I'm currently learning things... Sorry If my code make you angry or disappointed. :penguin:   
-<br/>
-<img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">
-## 🛠️ I'm working with:   
+## :wave: I am Clive, a Junior Software Engineer. :wave:
+- :speech_balloon: I'm currently learning things...    
+- :penguin: Sorry If my code make you angry or disappointed.
+- :fire: I am trying my best.
+<img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   
 
+## 🛠️ I am working with:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CliveTran&exclude_repo=SAV,CoffeeHouse&layout=compact&theme=cobalt)](https://github.com/CliveTran)
 <br/>
-## 💻 Interested in:
+## 💻 I am interested in:
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,4 +29,8 @@
 <code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" alt="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<br/>
+### Find me at:
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/vinhnhan/)
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook)](https://www.facebook.com/smiling.icon/)
 

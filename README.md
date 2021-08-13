@@ -1,4 +1,6 @@
 👋 I'm Clive and I'm currently learning things... Sorry If my code make you angry or disappointed. :penguin:   
+<br/>
+<img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">
 ## 🛠️ I'm working with:   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CliveTran&exclude_repo=SAV,CoffeeHouse&layout=compact&theme=cobalt)](https://github.com/CliveTran)

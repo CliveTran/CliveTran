@@ -1,6 +1,6 @@
 ## :wave: I am Clive, a Junior Software Engineer. :wave:
-- :speech_balloon: I'm currently learning things...    
-- :penguin: Sorry If my code make you angry or disappointed.
+- :speech_balloon: I'm currently learning things.    
+- :penguin: My code sometime works.
 - :fire: I am trying my best.
 <img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   
 

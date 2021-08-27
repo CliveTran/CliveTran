@@ -1,4 +1,4 @@
-## :wave: Hi, I am Clive, a Junior Software Engineer. :wave:
+## :wave: Hi, I am Clive. :wave:
 - I'm currently learning things. :speech_balloon:    
 - My code sometime works. :penguin:
 - I am trying my best. :fire:

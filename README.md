@@ -1,7 +1,7 @@
-## :wave: Hi, I am Clive. :wave:
+## :wave: Hi, I'm Clive. :wave:
 - I'm currently learning things. :speech_balloon:    
 - My code sometime works. :penguin:
-- I am trying my best. :fire:
+- I'm trying my best. :fire:
 <img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   
 
 ## 🛠️ I'm working with:  

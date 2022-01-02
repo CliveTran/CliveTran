@@ -4,10 +4,10 @@
 - I am trying my best. :fire:
 <img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   
 
-## 🛠️ I am working with:  
+## 🛠️ I'm working with:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CliveTran&hide=html&hide_title=true&langs_count=6&exclude_repo=SAV,CoffeeHouse&layout=compact)](https://github.com/CliveTran)
 <br/>
-## 💻 I am interested in:
+## 💻 I'm interested in:
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

@@ -16,5 +16,5 @@
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook)](https://www.facebook.com/smiling.icon/)
 [![image](https://img.shields.io/badge/gmail-D14836?&style=social&logo=gmail)](mailto:tranvinhnhan.tech@mail.com?subject=From%20GitHub&body=Hello,%20Clive.%20Found%20you%20from%20GitHub.)
 
-### :point_down: Does this button work? Can you please help me check?
+### :point_down:
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/clivetran)

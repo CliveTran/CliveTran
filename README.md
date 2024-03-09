@@ -4,7 +4,7 @@
 - I'm trying my best. :fire:
 <img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   
 
-## 😎 LeetCode [profile](https://leetcode.com/CliveTran/)
+## 😎 LeetCode profile
 [![Leetcode Stats](https://leetcard.jacoblin.cool/CliveTran)](https://leetcode.com/CliveTran)
 
 ## 💻 I'm interested in:

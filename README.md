@@ -5,7 +5,7 @@
 <img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   
 
 ## 😎 LeetCode [profile](https://leetcode.com/CliveTran/)
-[![CliveTran's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=CliveTran)](https://github.com/KnlnKS/leetcode-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/CliveTran)](https://leetcode.com/CliveTran)
 
 ## 💻 I'm interested in:
 [![My Skills](https://skillicons.dev/icons?i=angular,aws,azure,bash,cs,css,dotnet,gcp,git,github,githubactions,grafana,html,js,kubernetes,linux,mongodb,mysql,nodejs,ps,postgres,powershell,react,sqlite,svelte,tailwind,ts,unity,vite,vscode,wasm,webpack&theme=dark)](https://skillicons.dev)

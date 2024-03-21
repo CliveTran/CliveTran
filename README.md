@@ -1,7 +1,7 @@
 ## :wave: Hi, I'm Clive. :wave:
 - I'm currently building things. :hammer_and_wrench:    
 - My code sometime works. :penguin:
-- No pain no gain. :fire:
+- No pain no gain, keep learning. :fire:
 <img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   
 
 ## 😎 LeetCode profile

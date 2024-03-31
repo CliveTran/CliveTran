@@ -4,7 +4,6 @@
 - No pain no gain, keep learning. :fire:
 <img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   
 
-![](https://komarev.com/ghpvc/?username=clivetran&color=green&abbreviated=true)
 ## 😎 LeetCode profile
 [![Leetcode Stats](https://leetcard.jacoblin.cool/CliveTran)](https://leetcode.com/CliveTran)
 
@@ -16,4 +15,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinhnhan/)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/clivetran)  
+
 ![](https://komarev.com/ghpvc/?username=clivetran&color=green&abbreviated=true)

@@ -1,5 +1,5 @@
 ## :wave: Hi, I'm Clive. :wave:
-- I'm currently working on my SaaS. 🛠️    
+- I'm currently a full-time engineer and also working on my pet project. 🛠️    
 - "Keep it simple." 👍
 - There's no time to waste. 🔥
 <img src="https://github.com/CliveTran/CliveTran/blob/main/assets/cool-gif.gif">   

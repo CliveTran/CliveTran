@@ -16,9 +16,6 @@
   <a href="https://github.com/CliveTran">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CliveTran&show_icons=true&theme=tokyonight&hide_border=true" alt="Clive's Stats" />
   </a>
-  <a href="https://github.com/CliveTran">
-  <img align="center" src="https://streak-stats.demolab.com?user=CliveTran&theme=tokyonight&hide_border=true" alt="Clive's Streak" />
-  </a>
 </div>
 
 <br/>
@@ -27,7 +24,15 @@
   <h3>💻 Tech Stack</h3>
   
   <p>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,react,ts,js,html,css,tailwind,git,github,docker,kubernetes,linux,powershell,vscode&theme=dark&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,react,ts,js,html,css,tailwind,git,github,docker,postgres,linux,powershell,vscode&theme=dark&perline=8" alt="My Skills" />
+  </p>
+  
+  <p>
+    <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-AE620A?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></a>
+    <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
+    <a href="https://openai.com"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /></a>
+    <a href="https://cursor.sh"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" /></a>
+    <img src="https://img.shields.io/badge/Antigravity-FF0080?style=for-the-badge&logo=spinrilla&logoColor=white" alt="Antigravity" />
   </p>
 </div>
 

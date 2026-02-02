@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/CliveTran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CliveTran&show_icons=true&theme=tokyonight&hide_border=true" alt="Clive's Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CliveTran&show_icons=true&theme=tokyonight&hide_border=true" alt="Clive's Stats" />
   </a>
   <a href="https://github.com/CliveTran">
   <img align="center" src="https://streak-stats.demolab.com?user=CliveTran&theme=tokyonight&hide_border=true" alt="Clive's Streak" />

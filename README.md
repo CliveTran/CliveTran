@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/CliveTran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clivetran&show_icons=true&theme=tokyonight&hide_border=true" alt="Clive's Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CliveTran&show_icons=true&theme=tokyonight&hide_border=true" alt="Clive's Stats" />
   </a>
   <a href="https://github.com/CliveTran">
-  <img align="center" src="https://streak-stats.demolab.com?user=clivetran&theme=tokyonight&hide_border=true" alt="Clive's Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=CliveTran&theme=tokyonight&hide_border=true" alt="Clive's Streak" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 <div align="center">
    <h3>📈 Leet coding</h3>
     <a href="https://leetcode.com/CliveTran">
-    <img src="https://leetcard.jacoblin.cool/CliveTran?theme=tokyonight&font=inter&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/CliveTran?theme=tokyonight&font=inter" alt="LeetCode Stats" />
   </a>
 </div>
 
